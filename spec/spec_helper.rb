@@ -5,6 +5,7 @@ require 'rspec/rails'
 require 'rspec/autorun'
 
 require 'capybara/rspec'
+require 'rails_helper'
 
 # Requires supporting ruby files with custom matchers and macros, etc,
 # in spec/support/ and its subdirectories.
